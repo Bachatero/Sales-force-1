@@ -1,0 +1,9 @@
+{
+"xyzcrm":{
+"username":"xyz@xyz.com","password":"xyzxyz@xyzxyz","security_token":"xyz","domain":"xyz,"url":"https://xyz.lightning.force.com/{0}?csv=1&exp=1&enc=UTF-8&isdtp=p1"
+}
+,
+"xyz":{
+"username":"xyz@xyz.com","password":"xyz","security_token":"xyz","domain":"prod","url":"https://xyz.my.salesforce.com/{0}?view=d&snip&export=1&enc=UTF-8&xf=csv"
+}
+}
